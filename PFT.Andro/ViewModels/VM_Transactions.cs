@@ -59,7 +59,6 @@ namespace PFT.ViewModels
             GetPaymentTypeTotalSpend();
             GetTagTotalSpend();
             GetItemTotalSpend();
-
         }
 
 
